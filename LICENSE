@@ -1,5 +1,4 @@
-
-This license only applies to the parts of the project based on the bootstrap theme. I haven't worked out how I am going to license the rest of it yet (basically the bits in the skate_skills.js file). 
+This license only applies to the parts of the project based on the bootstrap theme.
 
 The MIT License (MIT)
 
@@ -15,6 +14,12 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
+
+The rest of the work, mostly the contents of the "theme-showcase" div and the skate_skills.js file are all rights reserved Chris Wilson. I will probably open source them at some point, but I haven't decided whether I'm going to try and make a few quid selling a mobile app, so I don't really know what to do with them yet.
+Please don't steal it, if you want to help out or it's been ages since I've touched it then get hold of me and we can probably work something out.
+
+
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

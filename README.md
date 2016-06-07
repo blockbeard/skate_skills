@@ -1,6 +1,3 @@
-# basic_bootstrap_template
-A basic template with the minimum bootstrap components included.
-Based on the "Bootstrap theme" example with all of the displayed components with the exception of the top navbar commented out so they don't display but are easily available for use. 
-# Files
-Includes the basic bootstrap files plus the minimum components to make it work.
-template.html remains as a generic template. index.html is customised with my details. 
+# Skate Skills
+When I've been practicing roller skating skills on my own I found a couple of problems. One of them is that it is easy to just practice what you are already good at. The other one is that when you get tested on your skills, or even just when you need to use them you don't know what is coming or when. When I practice I think, OK, I'll do a transition, so I get set up to do a transition then do it when I'm ready. I wanted something that would say "do a transition now" and I would just have to do it. 
+
