@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "up.github.blockbeard"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Skate Skills</name>
+
+    <description>
+   An app for practising skating skills. 
+    </description>
+
+    <author href="https://blockbeard.github.io" email="chris2097@gmail.com">
+        Chris Wilson 
+    </author>
+
+</widget>
+<icon src="icon.png" />
+<splash src="splash.png" />
