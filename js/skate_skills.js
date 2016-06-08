@@ -294,7 +294,7 @@ function skateSkills() {
     }
 
     function stopRightPlowFunc() {
-        var stopLeftPlowAudio = new Audio('audio/stopLeftPlow.mp3');
+        var stopLeftPlowAudio = new Audio('audio/stopRightPlow.mp3');
         stopLeftPlowAudio.play();
         if (stopRightPlowWhistle) {
             setTimeout(whistle, 1000);
